@@ -36,6 +36,7 @@ The final notebook can be found in the main branch along with the prsentation:
  -- Third commit - Discussions and Finalized the notebook 
  - CM results
   ![image](https://user-images.githubusercontent.com/98904682/202356818-dc7a9763-d663-4480-a758-6deec773e982.png)
+ -- Results are not indiciative of any action needed by Google in order to enhance their products
  
  # Conclusion
  - Despite my best efforts, NLP requires many iterations in order for it to be fully functional. Scores don't matter unless you can analyze the uni- bi/tri/etc grams and how it can affect the corpus 
