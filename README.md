@@ -1,7 +1,7 @@
 # Flatiron-Project-4-
 The final notebook can be found in the main branch along with the prsentation: 
-- Notebook: https://github.com/RaymondLeong94/Flatiron-Project-4-/blob/main/Project%204%20Draft.ipynb
-- Presentation: https://github.com/RaymondLeong94/Flatiron-Project-4-/blob/main/phase%204%20powerpoint%20pdf.pdf
+- Notebook: https://github.com/RaymondLeong94/Flatiron-Project-4-/blob/main/Project%204%20Final.ipynb
+- Presentation: https://github.com/RaymondLeong94/Flatiron-Project-4-/blob/main/Twitter.pdf
 
 # Introduction
 - The purpose of this project was to analyze tweet sentiments through various string manipulation techniques and through VADER. This allowed us to hone in onto the problems associated with negative tweets and seek to address issues such as Google's service delay's on their mobile devices. 
@@ -36,7 +36,7 @@ The final notebook can be found in the main branch along with the prsentation:
  -- Third commit - Discussions and Finalized the notebook 
  - CM results
   ![image](https://user-images.githubusercontent.com/98904682/202356818-dc7a9763-d663-4480-a758-6deec773e982.png)
- -- Results are not indiciative of any action needed by Google in order to enhance their products
+ -- **Results are not indiciative of any action needed by Google in order to enhance their products**
  
  # Conclusion
  - Despite my best efforts, NLP requires many iterations in order for it to be fully functional. Scores don't matter unless you can analyze the uni- bi/tri/etc grams and how it can affect the corpus 
